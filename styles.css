@@ -3,69 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Favorite Holiday Destination - Paris</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f9f9f9;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #c2185b;
-            text-align: center;
-        }
-        p {
-            text-align: center;
-            font-size: 1.1em;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto 30px;
-        }
-        h2 {
-            color: #303f9f;
-            border-bottom: 2px solid #303f9f;
-            padding-bottom: 5px;
-        }
-        ol, ul {
-            max-width: 700px;
-            margin: 0 auto 20px;
-            font-size: 1.05em;
-        }
-        li {
-            padding: 8px 0;
-        }
-        ol {
-            list-style-type: decimal;
-        }
-        ul {
-            list-style-type: circle;
-        }
-    </style>
+    <title>Favorite Holiday Destination</title>
 </head>
 <body>
+    <!-- Heading -->
     <h1>Paris, France</h1>
-    <br>
-    <p>Paris, often called the "City of Light," is one of the most romantic and culturally rich destinations in the world. Whether you're exploring its historic landmarks, strolling along the Seine, or indulging in exquisite cuisine, Paris offers an unforgettable experience for every traveler.</p>
 
-    <h2>Top 5 Attractions</h2>
+    <!-- Line Break -->
+    <br>
+
+    <!-- Paragraph -->
+    <p>
+        Paris, the capital of France, is often called the <em>“City of Light.”</em> 
+        It is known for its rich history, world-class art, stunning architecture, 
+        and romantic atmosphere that attracts millions of visitors every year.
+    </p>
+
+    <!-- Ordered List: Top 5 Attractions -->
+    <h2>Top 5 Attractions in Paris</h2>
     <ol>
-        <li><strong>Eiffel Tower</strong> – The iconic symbol of Paris that offers stunning panoramic views of the city.</li>
-        <li><em>Louvre Museum</em> – Home to world-famous masterpieces like the Mona Lisa and Venus de Milo.</li>
-        <li><strong>Notre-Dame Cathedral</strong> – A masterpiece of Gothic architecture with breathtaking stained glass windows.</li>
-        <li><em>Montmartre</em> – A lively neighborhood known for its artistic history and the stunning Sacré-Cœur Basilica.</li>
-        <li><strong>Champs-Élysées</strong> – A famous avenue lined with shops, cafés, and the majestic Arc de Triomphe.</li>
+        <li><strong>Eiffel Tower</strong> – A symbol of Paris and a must-see landmark.</li>
+        <li><em>Louvre Museum</em> – Home to the world-famous <strong>Mona Lisa</strong> painting.</li>
+        <li><strong>Notre-Dame Cathedral</strong> – A masterpiece of <em>Gothic architecture</em>.</li>
+        <li><em>Champs-Élysées</em> – The most <strong>beautiful avenue</strong> in the world.</li>
+        <li><strong>Montmartre</strong> – A historic district known for its <em>artistic charm</em>.</li>
     </ol>
 
-    <h2>Must-Try Foods</h2>
+    <!-- Unordered List: Must-Try Foods -->
+    <h2>Must-Try Foods in Paris</h2>
     <ul>
-        <li><strong>Croissants</strong> – Flaky, buttery pastries perfect for breakfast.</li>
-        <li><em>Baguette</em> – Crisp on the outside and soft on the inside, a true French staple.</li>
-        <li><strong>Crêpes</strong> – Thin pancakes served with a variety of delicious fillings.</li>
-        <li><em>Escargot</em> – A delicacy made from snails, often cooked with garlic and butter.</li>
-        <li><strong>Macarons</strong> – Colorful, delicate cookies with creamy fillings.</li>
+        <li><strong>Croissants</strong> – Fresh, flaky, and buttery pastries.</li>
+        <li><em>Baguette</em> – The classic French bread, crispy on the outside and soft inside.</li>
+        <li><strong>Crêpes</strong> – Thin pancakes filled with sweet or savory ingredients.</li>
+        <li><em>Macarons</em> – Colorful, delicate, and absolutely delicious desserts.</li>
+        <li><strong>Escargots</strong> – A French delicacy of <em>snails cooked with garlic butter</em>.</li>
     </ul>
 </body>
 </html>
-
